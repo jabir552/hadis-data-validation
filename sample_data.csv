@@ -1,0 +1,15 @@
+MemberID,Measure,ActualDate,Value
+1001,HbA1c,15-06-2025,7.2
+1001,HbA1c,06-2025,6.9
+1002,eGFR,2024,85
+1003,BP,10-03-2025,120/80
+1004,PHQ-9,03-2025,12
+1005,Colorectal Cancer Screening,2016,Done
+1006,Breast Cancer Screening,02-2024,Done
+1007,Osteoporosis Screening,2025,Done
+1008,HEENT Exam,14-07-2025,Completed
+1009,HbA1c,15-13-2025,8.0
+1010,eGFR,,90
+1011,PHQ-4,2025,5
+1012,BP,03-2025,300/200
+1013,HbA1c,2023,6.5
