@@ -1,4 +1,3 @@
-# HEDIS Data Validation – Jupyter Notebook
 
 ## Description
 This assignment mainly conatains data standardization, validates healthcare quality data based on HEDIS measures.
@@ -18,3 +17,5 @@ Python Language
 
 ## Output
 validation_output.csv contains validated results
+
+
